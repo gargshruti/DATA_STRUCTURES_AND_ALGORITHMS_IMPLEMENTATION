@@ -2,9 +2,8 @@
 All sorting algorithms code are present here.
 
 
-Algorithm   Time Complexity    Space Complexity          
+Algorithm   Time Complexity  And  Space Complexity          
 For Time Complexity :                Best       |    Wrost    |    Average
-
 For Space Complexity :                                                          Wrost
 
 1.          Merge Sort            _n_(nlog(n))  |  O(nlog(n)) |  0(nlog(n))  |  O(n)
