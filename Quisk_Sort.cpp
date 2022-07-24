@@ -10,7 +10,7 @@ void print_array(vector<int>A,int n){
 
 int partition(vector<int>&A,int p,int r){
     int len = A.size();
-    int x = A[r];
+    int x = A[r]; // pivot element (last element of array)
     int i =  p-1;
     for(int j=p;j<len;j++){
         if(A[j]<x){
